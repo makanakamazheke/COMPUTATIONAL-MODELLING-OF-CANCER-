@@ -16,10 +16,10 @@ As a physicist, I've found working biological data intriguing, though a occasion
 
 ​So far, in summary, I have managed to ​
 
-Export, clean and merge two datasets with thousands of unique FH mutation data. 
+1. Export, clean and merge two datasets with thousands of unique FH mutation data. 
 
-​Handle duplicated and missing data appropriately ​
+2. ​Handle duplicated and missing data appropriately ​
 
-Conduct sensitivity and specificity analysis to identify the optimum cutoff point for REVEL that minimizes disagreement between the two models. ​​​
+3. Conduct sensitivity and specificity analysis to identify the optimum cutoff point for REVEL that minimizes disagreement between the two models. ​​​
 
 ​
