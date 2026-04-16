@@ -1,6 +1,10 @@
 # COMPUTATIONAL-MODELLING-OF-CANCER-
 Reconciling Mutation Predictions from Different Models
 
+![ROC Curve Animation](roc_curve_animation.gif)
+
+![Sensitivity vs Specificity](sens_spec_animation.gif)
+
 ## Summary
 Simply put, the project is based on comparing and reconciling mutation predictions for a gene called Fumerate Hydratase using different computational models. 
 
