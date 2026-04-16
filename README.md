@@ -3,18 +3,13 @@ Reconciling Mutation Predictions from Different Models
 
 ### 🔬 Model Comparison Animations
 
-**ROC Curve – REVEL vs. Mechanistic Model**  
-![ROC curve animation](Animations/roc_curve_animation.gif)
-
-**Sensitivity & Specificity vs. REVEL Threshold**  
-![Sensitivity and Specificity](Animations/sens_spec_animation.gif)
-
-**REVEL Scores vs. Hinge Distance (Threshold Sweep)**  
-
-![Hinge distance scatter](Animations/hinge_threshold_animation.gif)
-
-**Distribution of REVEL Scores with Sliding Cutoff**  
-![REVEL histogram](Animations/histogram_threshold_animation.gif)
+<table>
+  <tr>
+    <td align="center"><b>REVEL vs. Binding Site</b><br><img src="Animations/bindingsite_threshold_animation.gif" width="100%"></td>
+    <td align="center"><b>REVEL vs. Destabilizing Energy</b><br><img src="Animations/destabilizing_threshold_animation.gif" width="100%"></td>
+    <td align="center"><b>REVEL vs. Hinge Site</b><br><img src="Animations/hinge_threshold_animation.gif" width="100%"></td>
+  </tr>
+</table>
 
 ## Summary
 Simply put, the project is based on comparing and reconciling mutation predictions for a gene called Fumerate Hydratase using different computational models. 
