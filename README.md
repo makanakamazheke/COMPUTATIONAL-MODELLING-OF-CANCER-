@@ -33,4 +33,16 @@ As a physicist, I've found working biological data intriguing, though a occasion
 3. Conduct sensitivity and specificity analysis to identify the optimum cutoff point for REVEL that minimizes disagreement between the two models. ​​​
 
 **Code will be uploaded once the project is concluded**
+
+### 🔬 Model Comparison Animations
+
+**ROC Curve – REVEL vs. Mechanistic Model**  
+![ROC curve animation](Animations/roc_curve_animation.gif)
+
+**Sensitivity & Specificity vs. REVEL Threshold**  
+![Sensitivity and Specificity](Animations/sens_spec_animation.gif)
+
+
+**Distribution of REVEL Scores with Sliding Cutoff**  
+![REVEL histogram](Animations/histogram_threshold_animation.gif)
 ​
