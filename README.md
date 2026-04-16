@@ -10,6 +10,7 @@ Reconciling Mutation Predictions from Different Models
 ![Sensitivity and Specificity](Animations/sens_spec_animation.gif)
 
 **REVEL Scores vs. Hinge Distance (Threshold Sweep)**  
+
 ![Hinge distance scatter](Animations/hinge_threshold_animation.gif)
 
 **Distribution of REVEL Scores with Sliding Cutoff**  
